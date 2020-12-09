@@ -1,2 +1,3 @@
 # Malaria-Image-Classification
-VGG, Transfer Learning,Heroku Cloud,Flask
+VGG, Transfer Learning,Flask
+Local Deployment
