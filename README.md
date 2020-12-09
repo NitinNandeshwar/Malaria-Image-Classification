@@ -1,3 +1,3 @@
 # Malaria-Image-Classification
-VGG, Transfer Learning,Flask
-Local Deployment
+VGG, Transfer Learning,Flask,
+Local Machine Deployment
